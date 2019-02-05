@@ -1,0 +1,1 @@
+From the directory where pom.xml is located in the console, perform -mvn clean test
