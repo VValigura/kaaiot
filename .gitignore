@@ -1,0 +1,5 @@
+﻿# IntellijIdea files
+*.iml
+.idea
+.log
+out
